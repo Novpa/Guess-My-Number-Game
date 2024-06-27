@@ -15,7 +15,7 @@ This is a simple number guessing game built with HTML, CSS, and JavaScript. The 
 - Reset button to play again
 
 ## Screenshot:
-![Guess My Number Game](./image.png)
+<img src="image.png" alt="Guess My Number Game" width="300">
 
 ## Getting Started:
 To play the game, simply open the `index.html` file in your browser.
